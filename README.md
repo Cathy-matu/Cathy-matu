@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cathy_M
-- 🌱 I’m currently learning everything.🤩🤩🤩
+- 🌱 I’m a coding rookie.
 - 📫 How to reach me, IG @nimofuraha
 - 😄 Pronouns:she/her
 - ⚡ Fun fact:I an artsy girl, in a doodle way.
