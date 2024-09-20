@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cathy_M
 - 🌱 I’m a coding stan! A certified AWS Cloud Practitioner😎
 - 🦾Soon to be a Solutions Architect
-- 📫 How to reach me, IG @nimofuraha
+- 📫 How to reach me, linkedIn @Cathy-matu 
 - 😄 Pronouns:she/her
 - ⚡ Fun fact:I'm an artsy girl, in a doodle way.
 
