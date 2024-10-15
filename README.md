@@ -3,7 +3,7 @@
 - 🦾Soon to be a Solutions Architect
 - 📫 How to reach me, linkedIn @Cathy-matu 
 - 😄 Pronouns:she/her
-- ⚡ Fun fact:I'm an artsy girl, in a doodle way.
+- ⚡ Fun fact:I'm an artsy girl, in a doodle way.I enjoy cycling, hiking and any outdoor activity!
 
 <!---
 Cathy-matu/Cathy-matu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
