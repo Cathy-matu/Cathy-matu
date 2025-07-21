@@ -1,4 +1,4 @@
-# Hi there, I'm Nimo 👋
+# Hi there, I'm Cathy 👋
 
 Welcome to my GitHub profile! I'm passionate about **cloud computing,  web development, and AI/ML**, and I'm on a journey to build creative, useful, and impactful solutions.
 
