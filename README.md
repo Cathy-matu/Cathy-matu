@@ -1,15 +1,6 @@
 <h2 align="left">Hi 👋! My name is Cathy and I'm a Fullstack Developer & Data Scientist, from Nairobi, Kenya.</h2>
 
 ###
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cathy-matu&show_icons=true&theme=dracula&count_private=true" height="150" alt="Cathy's GitHub stats" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cathy-matu&theme=dracula" height="150" alt="Cathy's streak" />
-
-  <br>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cathy-matu&layout=compact&theme=dracula&langs_count=6" height="150" alt="Cathy's top languages" />
-</div>
 
 
 ###
