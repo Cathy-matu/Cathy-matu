@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *" 
+    - cron: "0 */12 * * *" # Runs every 12 hours
   workflow_dispatch:
   push:
     branches:
@@ -10,7 +10,7 @@ on:
 
 jobs:
   generate:
-    runs-with: ubuntu-latest
+    runs-on: ubuntu-latest
     steps:
       - name: generate-snake-game-from-github-contribution-grid
         uses: Platane/snk@v3
