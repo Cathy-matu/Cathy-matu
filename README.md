@@ -4,7 +4,7 @@
   <div align="left">
     <h1>✨ Hi, I'm Cathy! 👩‍💻</h1>
     <p>
-      <strong>Software Engineering Student | Data Scientist | Fullstack Developer</strong><br>
+      <strong>Computer Science Student | Data Scientist | Fullstack Developer</strong><br>
       📍 Based in Nairobi, Kenya
     </p>
     <p>
