@@ -1,62 +1,69 @@
-<h2 align="left">Hi 👋! My name is Cathy and I'm a Fullstack Developer & Data Scientist, from Nairobi, Kenya.</h2>
-
-###
-
-
-###
-
-<img align="right" height="160" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJlbTE1c2psd3N3eXB1c3JnbmE1OHgxdjA0eHlqZ2MwaG9leWlmZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif" alt="Data Science Visual" />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35" alt="pandas logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="35" alt="ruby logo" />
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJlbTE1c2psd3N3eXB1c3JnbmE1OHgxdjA0eHlqZ2MwaG9leWlmZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif" align="right" height="150" />
   
-  <br><br>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" alt="nextjs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="35" alt="supabase logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="35" alt="aws logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="35" alt="ubuntu logo" />
+  <div align="left">
+    <h1>✨ Hi, I'm Cathy! 👩‍💻</h1>
+    <p>
+      <strong>Software Engineering Student | Data Scientist | Fullstack Developer</strong><br>
+      📍 Based in Nairobi, Kenya
+    </p>
+    <p>
+      I’m passionate about building scalable web applications and uncovering insights through data. Currently focused on fintech solutions and spatial data analysis.
+    </p>
+  </div>
 </div>
 
-###
+---
 
-## 🚀 Featured Projects
+### 🛠️ <code>Tech Stack & Tools</code>
 
-- **RentWallet**: A fullstack application designed for seamless rent management.
-  - *Tech:* React, Node.js, PostgreSQL, Supabase.
-- **Research Management System (RMS)**: An integrated system for managing research workflows and roles.
-  - *Tech:* Next.js, Python, AWS.
+<div align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E9431E?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+</div>
 
-###
+---
 
+### 🚀 <code>Featured Projects</code>
+
+* **[RentWallet](https://github.com/Cathy-matu/RentWallet)** 🏠  
+    *A fullstack ecosystem for seamless rent management and financial tracking.* `React` • `Node.js` • `PostgreSQL` • `Supabase`
+    
+* **[Kibera Spatial Project](https://github.com/Cathy-matu/Kibera-Spatial-Project)** 🗺️  
+    *An impactful data project mapping resources and infrastructure within Kibera to drive community visibility.* `Python` • `PostgreSQL` • `GIS` • `Data Visualization`
+
+---
+
+### 🌱 <code>Currently Exploring</code>
+* **Mandarin Chinese:** 🏮 (Bridging technology and global culture)
+* **Advanced Calculus:** 📈 (Strengthening the mathematical foundations of AI/ML)
+* **DITA Community:** 🤝 Mentoring and growing with fellow tech enthusiasts.
+
+---
+
+### 📫 <code>Connect with me</code>
 <div align="left">
   <a href="mailto:catherinewmatu01@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail logo" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="28" />
   </a>
   <a href="https://www.linkedin.com/in/cathy-matu/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="28" />
   </a>
 </div>
 
-###
+<br>
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Cathy-matu/Cathy-matu/output/github-snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Cathy-matu/Cathy-matu/output/github-snake.svg" width="100%" alt="Snake animation" />
+</div>
