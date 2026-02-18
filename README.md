@@ -1,39 +1,66 @@
-# Hi there, I'm Cathy 👋
+<h2 align="left">Hi 👋! My name is Cathy and I'm a Fullstack Developer & Data Scientist, from Nairobi, Kenya.</h2>
 
-Welcome to my GitHub profile! I'm passionate about **cloud computing,  web development, and AI/ML**, and I'm on a journey to build creative, useful, and impactful solutions.
+###
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cathy-matu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cathy-matu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-### 👩‍💻 About Me
+###
 
-- 💡 Computer Science student at Daystar University  
-- ☁️ Certified **AWS Cloud Practitioner** & graduate of **AWS re/Start**
-- 🧠 AI/ML enthusiast with a love for ethical tech and community learning
-- 🌱 Currently exploring: FrontEnd, Databases, Serverless, Containers, and AI Agents
-- 📚 Lifelong learner | 🎙️ Speaker | 👩‍🏫 Mentor-in-training
+<img align="right" height="160" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJlbTE1c2psd3N3eXB1c3JnbmE1OHgxdjA0eHlqZ2MwaG9leWlmZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif" alt="Data Science Visual" />
 
+###
 
----
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35" alt="pandas logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="35" alt="ruby logo" />
+  
+  <br><br>
 
-### 🌍 Communities I’m Part Of
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" alt="nextjs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="35" alt="supabase logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="35" alt="aws logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="docker logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="35" alt="ubuntu logo" />
+</div>
 
-- Power Learn Project (PLP) Software Dev Alumnus
--  DITA
--  AIESEC
--  CodeKenya
--  Africa Ruby Community
+###
 
----
+## 🚀 Featured Projects
 
-### 📫 How to Reach Me
+- **RentWallet**: A fullstack application designed for seamless rent management.
+  - *Tech:* React, Node.js, PostgreSQL, Supabase.
+- **Research Management System (RMS)**: An integrated system for managing research workflows and roles.
+  - *Tech:* Next.js, Python, AWS.
 
--  [LinkedIn](https://www.linkedin.com/in/cathy-matu/)
+###
 
+<div align="left">
+  <a href="mailto:catherinewmatu01@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/cathy-matu/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+</div>
 
----
+###
 
+<br clear="both">
 
-
-_“If you want to go fast, go alone. If you want to go far, go together.”_
-
-Thanks for visiting! ✨
+<img src="https://raw.githubusercontent.com/Cathy-matu/Cathy-matu/output/github-snake.svg" alt="Snake animation" />
