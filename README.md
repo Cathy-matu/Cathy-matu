@@ -3,8 +3,13 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cathy-matu&show_icons=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cathy-matu&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Cathy-matu&show_icons=true&count_private=true&theme=dracula&include_all_commits=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cathy-matu&theme=dracula" height="150" alt="streak graph" />
+
+  <br>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cathy-matu&layout=compact&langs_count=6&theme=dracula" height="150" alt="languages graph" />
 </div>
 
 ###
