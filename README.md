@@ -35,20 +35,11 @@
 
 ---
 
-### 🚀 <code>Featured Projects</code>
-
-* **[RentWallet](https://github.com/Cathy-matu/RentWallet)** 🏠  
-    *A fullstack ecosystem for seamless rent management and financial tracking.* `React` • `Node.js` • `PostgreSQL` • `Supabase`
-    
-* **[Kibera Spatial Project](https://github.com/Cathy-matu/Kibera-Spatial-Project)** 🗺️  
-    *An impactful data project mapping resources and infrastructure within Kibera to drive community visibility.* `Python` • `PostgreSQL` • `GIS` • `Data Visualization`
-
----
 
 ### 🌱 <code>Currently Exploring</code>
-* **Mandarin Chinese:** 🏮 (Bridging technology and global culture)
-* **Advanced Calculus:** 📈 (Strengthening the mathematical foundations of AI/ML)
-* **DITA Community:** 🤝 Mentoring and growing with fellow tech enthusiasts.
+* **Mandarin Chinese:** 🏮 
+* **Advanced Calculus:** Mathematical foundations for AI/ML
+* **DITA Community:** 🤝 Drowing with fellow tech enthusiasts.
 
 ---
 
