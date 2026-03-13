@@ -37,9 +37,9 @@
 
 
 ### 🌱 <code>Currently Exploring</code>
-* **Mandarin Chinese:** 🏮 
-* **Advanced Calculus:** Mathematical foundations for AI/ML
-* **DITA Community:** 🤝 Drowing with fellow tech enthusiasts.
+ **Mandarin Chinese:** 🏮 
+ **Advanced Calculus:** Mathematical foundations for AI/ML
+ **DITA Community:** 🤝 Building with fellow techies.
 
 ---
 
