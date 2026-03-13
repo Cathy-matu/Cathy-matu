@@ -8,7 +8,7 @@
       📍 Based in Nairobi, Kenya
     </p>
     <p>
-      I’m passionate about building scalable web applications and uncovering insights through data. Currently focused on fintech solutions and spatial data analysis.
+      I’m passionate about building scalable web applications and uncovering insights through data. Currently exploring spatial data analysis.
     </p>
   </div>
 </div>
