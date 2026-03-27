@@ -37,13 +37,14 @@
 
 
 ### 🌱 <code>Currently Exploring</code>
- **Mandarin Chinese:** 🏮 
+ **Mandarin Chinese:** 🏮
+ 
  **Advanced Calculus:** Mathematical foundations for AI/ML
  **DITA Community:** 🤝 Building with fellow techies.
 
 ---
 
-### 📫 <code>Connect with me</code>
+### <code>Connect with me</code>
 <div align="left">
   <a href="mailto:catherinewmatu01@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="28" />
