@@ -36,11 +36,11 @@
 
 
 ### 🌱 <code>Currently Exploring</code>
- **Mandarin Chinese:** 🏮
+ **Mandarin Chinese:** 你好，我叫 Cathy。我是戴斯塔大学计算机科学专业的学生
  
  **Advanced Calculus:** Mathematical foundations for AI/ML
  
- **DITA Community:** 🤝 Building with fellow techies.
+ **DITA Community:** Building with fellow techies.
 
 ---
 
