@@ -2,7 +2,7 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJlbTE1c2psd3N3eXB1c3JnbmE1OHgxdjA0eHlqZ2MwaG9leWlmZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif" align="right" height="150" />
   
   <div align="left">
-    <h1>Hi, I'm Catie</h1>
+    <h1>Hi, I'm Cathye</h1>
     <p>
       <strong>Computer Science Student | Data Scientist | Fullstack Developer</strong><br>
       📍 Based in Nairobi, Kenya
@@ -40,6 +40,7 @@
  **Mandarin Chinese:** 🏮
  
  **Advanced Calculus:** Mathematical foundations for AI/ML
+ 
  **DITA Community:** 🤝 Building with fellow techies.
 
 ---
