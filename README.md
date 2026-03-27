@@ -33,7 +33,7 @@
 
 ---
 
-### 🌱 <code>Currently Exploring</code>
+### <code>Currently Exploring</code>
 * **Mandarin Chinese:** 学习中 (Learning) — *"你好，我叫 Cathy。我是戴斯塔大学计算机科学专业的学生。"*
 * **Advanced Mathematics:** Diving into Calculus for AI/ML foundations.
 * **Community Building:** Leading initiatives at DITA and codeKenya.
